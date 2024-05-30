@@ -1,6 +1,6 @@
 # Description
 
-This repo demonstrates a build error on Android that shows up when share_plus is added to the project.
+(30/05/2024) This repo demonstrates a build error on Android that shows up when share_plus is added to the project.
 
 This project was created running `flutter create --platforms android` and share_plus was added to pubspec.
 No other modifications were made.
